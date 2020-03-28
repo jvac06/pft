@@ -1,0 +1,17 @@
+#Ignore all Gerdau confidential
+confidential
+
+#Ignore data masking files
+prepScripts
+
+#Ignore Mac system files
+.DS_Store
+
+#Ignore jupy checkpoints
+.ipynb_checkpoints
+
+#Ignore VsCode
+.vscode
+
+#Ignore pipfile.lock
+Pipfile.lock
