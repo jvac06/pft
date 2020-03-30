@@ -4,10 +4,13 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-packpandas = "*"
+ipython = "*"
+ipython-genutils = "*"
+jedi = "*"
+jupyter = "*"
+pylint = "*"
 
 [packages]
-pandas = "*"
 faker = "*"
 joblib = "*"
 openpyxl = "*"
@@ -15,9 +18,7 @@ numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 sklearn = "*"
-jupyter = "*"
-pylint = "*"
-re = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"
