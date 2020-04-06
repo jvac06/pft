@@ -9,6 +9,7 @@ ipython-genutils = "*"
 jedi = "*"
 jupyter = "*"
 pylint = "*"
+xz = "*"
 
 [packages]
 faker = "*"
@@ -19,6 +20,7 @@ matplotlib = "*"
 seaborn = "*"
 sklearn = "*"
 pandas = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
