@@ -21,6 +21,7 @@ seaborn = "*"
 sklearn = "*"
 pandas = "*"
 scipy = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.7"
