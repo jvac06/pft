@@ -24,6 +24,7 @@ scipy = "*"
 xlrd = "*"
 pystan = "*"
 fbprophet = "*"
+plotly = "*"
 
 [requires]
 python_version = "3.7"
