@@ -25,6 +25,7 @@ xlrd = "*"
 pystan = "*"
 fbprophet = "*"
 plotly = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.7"
