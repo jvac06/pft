@@ -26,6 +26,7 @@ pystan = "*"
 fbprophet = "*"
 plotly = "*"
 tensorflow = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.7"
