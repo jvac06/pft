@@ -15,3 +15,17 @@ prepScripts
 
 #Ignore pipfile.lock
 Pipfile.lock
+
+#Ignore zip
+submission.zip
+
+#Docker
+Dockerfile
+*.yml
+
+#Pipenv & Other Env
+Pipfile
+requirements.txt
+
+#Gitignore
+.gitignore
